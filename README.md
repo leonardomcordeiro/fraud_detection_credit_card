@@ -1,7 +1,7 @@
-<h1> Detecção de Fraude em Cartões de Crédito </h1>
+<h1> Detecção de Fraudes em Cartões de Crédito </h1>
 
 
-<h3> Detecção de Fraude em Cartões de Crédito usando Machine Learning </h3>
+<h3> Detecção de Fraudes em Cartões de Crédito usando Machine Learning </h3>
 
 ![cover](https://github.com/leonardomcordeiro/fraud_detection_credit_card/blob/main/images/credit_card_blocker_fraud.jpg)
 
@@ -25,3 +25,20 @@ Esse repositório contém códigos para a detecção de fraudes em cartão de cr
   
   
 </a>
+
+## 2. Premissas de Negócio
+
+• Empresas que investem em detecção de fraudes aumentam a captação de clientes em torno de 12%
+
+• Empresas que investem em detecção de fraudes aumentam a fidelização de clientes em torno de 31%
+
+## 3. Estratégia de solução
+
+O método de gerenciamento de projetos de Data Science escolhido para o desenvolvimento da solução será baseado no Cross Industry Process - Data Science (CRISP-DS), que consiste em um método de desenvolvimento cíclico. Primeiramente serão levantados insights sobre o problema e testadas as hipóteses geradas conforme a disponibilidade dos dados.
+
+O objetivo principal será avaliar o impacto de um modelo de previsão de fraude nos negócios da Mega Credi e se é valida a criação de um departamento especializado em prevenção a fraudes.
+
+
+
+
+
